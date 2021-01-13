@@ -1,0 +1,11 @@
+{
+    "ids": {
+        "Pass": 5
+      },
+    "models": {
+        "1" : {"id": "gold",
+        "title": "Gold",
+        "liftTypes": []
+        }
+    }
+}
