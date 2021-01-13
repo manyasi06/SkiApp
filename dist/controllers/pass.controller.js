@@ -17,7 +17,7 @@ let PassControllerController = class PassControllerController {
         return this.passRepository.count(where);
     }
     async find(filter) {
-        return this.passRepository.find(filter);
+        return this.passRepository.find();
     }
     async updateAll(pass, where) {
         return this.passRepository.updateAll(pass, where);

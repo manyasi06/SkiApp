@@ -4247,7 +4247,7 @@
         "affectsGlobalScope": false
       },
       "./src/controllers/pass.controller.ts": {
-        "version": "7de733c7909ed500d7a913491805f0979288ad42c6bf47f4723ab87f83da9cf1",
+        "version": "64a618b037a4f084afefaa4a87e060b42dab770272eeab1a98c80a9093455abf",
         "signature": "60477fad3410e757e2f8a534130ee4c4380db2a253ae04746a3d55a1e2b655eb",
         "affectsGlobalScope": false
       },
@@ -13039,7 +13039,6 @@
       "./src/__tests__/acceptance/test-helper.ts",
       "./src/application.ts",
       "./src/controllers/index.ts",
-      "./src/controllers/pass.controller.ts",
       "./src/controllers/ping.controller.ts",
       "./src/datasources/db.datasource.ts",
       "./src/datasources/hills.datasource.ts",

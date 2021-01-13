@@ -64,6 +64,7 @@
     "@loopback/rest-explorer": "^3.0.5",
     "@loopback/service-proxy": "^3.0.5",
     "class-transformer": "^0.3.1",
+    "graphql": "^15.4.0",
     "tslib": "^2.0.0"
   },
   "devDependencies": {

@@ -81,7 +81,7 @@ export class PassControllerController {
   async find(
     @param.filter(Pass) filter?: Filter<Pass>,
   ): Promise<Pass[]> {
-    return this.passRepository.;
+    return this.passRepository.find();
   }
 
   @patch('/passes', {
